@@ -1,5 +1,3 @@
----
-
 # Season 3
 
 ### Unyielding Warrior Core
